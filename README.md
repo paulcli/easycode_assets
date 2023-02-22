@@ -32,7 +32,7 @@ How is it different from other extensions?
 
 <img src="https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/main_panel.png" width="50%">
 
-- **Ask Codebase →** For understanding how things work at a high level that are specific to your codebase. For example:
+- **`Ask Codebase` →** For understanding how things work at a high level that are specific to your codebase. For example:
     - “What does this application do?”
     - “How does the user registration work?”
     
@@ -42,36 +42,41 @@ How is it different from other extensions?
     
     And of course code generation:
     
-    - “What are the changes needed to do <replace with a feature>?”
-    - “How do I implement <replace with an idea>?”
-- **Ask Internet →** Think of this as chatGPT in your IDE. Good for understanding concepts that are general, not related to your codebase. For example:
+    - “What are the changes needed to do (insert feature) ?”
+    - “How do I implement (inser idea)?”
+- **`Ask Internet` →** Think of this as chatGPT in your IDE. Good for understanding concepts that are general, not related to your codebase. For example:
     - “How to sort an array in python?”
     - “How to handle exceptions in python?”
 
-### **Understandings the specifics**
+### **Understandings the Specifics**
 
 <img src="https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/context_menu.png" width="50%">
 
-- **Ask EasyCode →** For open ended questions that are specific to the code you selected. Useful for questions that have a narrower scope.
-- **Ask EasyCode: What does this do? →** Explains in detail what the code is doing. Useful for code that’s hard to read for various reasons (unfamiliar language, next level regex, yaml/config files, etc).
-- **Ask EasyCode: Why is this here? →** Explains why a line/chunk of code is needed. This is a little unpredictable, it can be either very useful, or just re-iterate what the code does in a different way.
-- **Ask EasyCode: How is this method used? →** Explains the usages of the method, ie how the method affects or is affected by other parts of codebase.
-- **Ask EasyCode: How is this file used? →** Similar to “How is this method used”, but for a file or class.
-- **Ask EasyCode: Write Code →** Get code suggestion that are specific to the code you selected. For example
+- **`Ask EasyCode` →** For open ended questions that are specific to the code you selected. Useful for questions that have a narrower scope.
+    
+- **`Ask EasyCode: What does this do?` →** Explains in detail what the code is doing. Useful for code that’s hard to read for various reasons (unfamiliar language, next level regex, yaml/config files, etc).
+    
+- **`Ask EasyCode: Why is this here?` →** Explains why a line/chunk of code is needed. This is a little unpredictable, it can be either very useful, or just re-iterate what the code does in a different way.
+
+- **`Ask EasyCode: How is this method used?` →** Explains the usages of the method, ie how the method affects or is affected by other parts of codebase.
+
+- **`Ask EasyCode: How is this file used?` →** Similar to “How is this method used”, but for a file or class.
+
+- **`Ask EasyCode: Write Code` →** Get code suggestion that are specific to the code you selected. For example
     - “Modify a function so that it does ____”
     - “Write a test case that tests _____”
     - “Write documentation for this function”
 
-**EasyCode: Index Codebase →** Allows for re-indexing of codebase, or indexing a different part of the codebase.
+**`EasyCode: Index Codebase` →** Allows for re-indexing of codebase, or indexing a different part of the codebase.
 
 ## Getting Started
 
-1. **Index codebase** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **Ask Codebase** features. ⚠️ **Make sure to index a folder that contains most of the logic.**
+1. **`Index codebase`** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **Ask Codebase** features. ⚠️ **Make sure to index a folder that contains most of the logic.**
     
     ![Index](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/index_codebase.gif)
     
-2. **Ask Codebase** → ask a question that is related to your specific codebase, such as “How does this application work?
-3. **Ask Internet** → ask a questions such as “how to send http request in react native?”
+2. **`Ask Codebase`** → ask a question that is related to your specific codebase, such as “How does this application work?
+3. **`Ask Internet`** → ask a questions such as “how to send http request in react native?”
 
 ## FAQs
 
