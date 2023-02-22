@@ -1,4 +1,4 @@
-<h2 align="center">EasyCode</h2>
+<h2 align="center"><img src="https://github.com/chuangli94/easycode_assets/blob/41709d1a15b80140bfdfa96b9f64d74a98f3d2b3/easycode_blue.png" height="64"><br>EasyCode</h2>
 <p align="center">GPT bot that understands your codebase</p>
 
 ### EasyCode helps you find relevant code, understand existing code, and write new code.
