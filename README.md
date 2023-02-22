@@ -28,7 +28,7 @@ How is it different from other extensions?
 
 ## Getting Started
 
-1. **`Index codebase`** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **Ask Codebase** features. ⚠️ **Make sure to index a folder that contains most of the logic.**
+1. **`Index codebase`** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **`Ask Codebase`** feature. ⚠️ **Make sure to index a folder that contains most of the logic.**
     
     ![Index](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/index_codebase.gif)
     
@@ -92,7 +92,7 @@ How is it different from other extensions?
     
 - Do I have to index my code base?
     
-    No. Indexing is required to use the “Ask Codebase” feature which provides answers relevant to your codebase. If you don’t want to index your codebase, you can still use all the other features. 
+    No. Indexing is required to use the **`Ask Codebase`** feature which provides answers relevant to your codebase. If you don’t want to index your codebase, you can still use all the other features. 
     
 - What happens to my data?
     
