@@ -12,25 +12,25 @@ How is it different from other extensions?
 
 ### Code Suggestion
 
-![Code Suggestion](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/code_suggestion_annotated.jpg)
+![Code Suggestion](https://github.com/chuangli94/easycode_assets/blob/main/code_suggestion_annotated.jpg?raw=true)
 
 ### Code Explanation
 
-![Code Explanation](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/code_explanation_annotated.jpg)
+![Code Explanation](https://github.com/chuangli94/easycode_assets/blob/main/code_explanation_annotated.jpg?raw=true)
 
 ### Semantic Search
 
-![Semantic Search](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/semantic_search_annotated.jpg)
+![Semantic Search](https://github.com/chuangli94/easycode_assets/blob/main/semantic_search_annotated.jpg?raw=true)
 
 ### General Search
 
-![General Search](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/general_search_annotated.jpg)
+![General Search](https://github.com/chuangli94/easycode_assets/blob/main/general_search_annotated.jpg?raw=true)
 
 ## Getting Started
 
 1. **`Index codebase`** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **`Ask Codebase`** feature. ⚠️ **Make sure to index a folder that contains most of the logic.**
     
-    ![Index](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/index_codebase.gif)
+    ![Index](https://github.com/chuangli94/easycode_assets/blob/main/index_codebase.gif?raw=true)
     
 2. **`Ask Codebase`** → ask a question that is related to your specific codebase, such as “How does this application work?"
 3. **`Ask Internet`** → ask a questions such as “how to send http request in react native?”
@@ -39,7 +39,7 @@ How is it different from other extensions?
 
 ### **Understanding the Big Picture**
 
-<img src="https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/main_panel.png" width="50%">
+<img src="https://github.com/chuangli94/easycode_assets/blob/main/main_panel.png?raw=true" width="50%">
 
 - **`Ask Codebase` →** For understanding how things work at a high level that are specific to your codebase. For example:
     - “What does this application do?”
@@ -59,7 +59,7 @@ How is it different from other extensions?
 
 ### **Understandings the Specifics**
 
-<img src="https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/context_menu.png" width="50%">
+<img src="https://github.com/chuangli94/easycode_assets/blob/main/context_menu.png?raw=true" width="50%">
 
 - **`Ask EasyCode` →** For open ended questions that are specific to the code you selected. Useful for questions that have a narrower scope.
     
