@@ -1,4 +1,5 @@
-# VS Code Marketplace copy
+<h2 align="center">EasyCode</h2>
+<p align="center">GPT bot that understands your codebase</p>
 
 ### EasyCode helps you find relevant code, understand existing code, and write new code.
 
@@ -11,25 +12,25 @@ How is it different from other extensions?
 
 ### Code Suggestion
 
-![Untitled](VS%20Code%20Marketplace%20copy%20e9839aeb56a347598f7a4931c1d86904/Untitled.png)
+![Code Suggestion](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/code_suggestion_annotated.jpg)
 
 ### Code Explanation
 
-![Untitled](VS%20Code%20Marketplace%20copy%20e9839aeb56a347598f7a4931c1d86904/Untitled%201.png)
+![Code Explanation](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/code_explanation_annotated.jpg)
 
 ### Semantic Search
 
-![Untitled](VS%20Code%20Marketplace%20copy%20e9839aeb56a347598f7a4931c1d86904/Untitled%202.png)
+![Semantic Search](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/semantic_search_annotated.jpg)
 
 ### General Search
 
-![Untitled](VS%20Code%20Marketplace%20copy%20e9839aeb56a347598f7a4931c1d86904/Untitled%203.png)
+![General Search](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/general_search_annotated.jpg)
 
 ## How to use EasyCode
 
 ### **Understanding the Big Picture**
 
-![Untitled](VS%20Code%20Marketplace%20copy%20e9839aeb56a347598f7a4931c1d86904/Untitled%204.png)
+<img src="https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/main_panel.png" width="50%">
 
 - **Ask Codebase →** For understanding how things work at a high level that are specific to your codebase. For example:
     - “What does this application do?”
@@ -49,7 +50,7 @@ How is it different from other extensions?
 
 ### **Understandings the specifics**
 
-![Untitled](VS%20Code%20Marketplace%20copy%20e9839aeb56a347598f7a4931c1d86904/Untitled%205.png)
+<img src="https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/context_menu.png" width="50%">
 
 - **Ask EasyCode →** For open ended questions that are specific to the code you selected. Useful for questions that have a narrower scope.
 - **Ask EasyCode: What does this do? →** Explains in detail what the code is doing. Useful for code that’s hard to read for various reasons (unfamiliar language, next level regex, yaml/config files, etc).
@@ -67,7 +68,7 @@ How is it different from other extensions?
 
 1. **Index codebase** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **Ask Codebase** features. ⚠️ **Make sure to index a folder that contains most of the logic.**
     
-    ![Untitled](VS%20Code%20Marketplace%20copy%20e9839aeb56a347598f7a4931c1d86904/Untitled.gif)
+    ![Index](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/index_codebase.gif)
     
 2. **Ask Codebase** → ask a question that is related to your specific codebase, such as “How does this application work?
 3. **Ask Internet** → ask a questions such as “how to send http request in react native?”
@@ -95,4 +96,11 @@ How is it different from other extensions?
 
 ## Contact
 
-Please email **[paul@personabo.com](https://www.notion.so/Jim-Dave-Paul-Personabo-Discovery-05468348545d4af381f8c878cdcd59e6)** with your feedback & questions!
+Please email **[paul@personabo.com](mailto:paul@personabo.com)** with your feedback & questions!
+
+<div align="center">
+  <br />
+Made with ❤️ + ☕ from 🇨🇦
+  <br />
+ © 2023 Personabo Technologies Inc.
+</div>
