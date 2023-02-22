@@ -26,6 +26,15 @@ How is it different from other extensions?
 
 ![General Search](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/general_search_annotated.jpg)
 
+## Getting Started
+
+1. **`Index codebase`** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **Ask Codebase** features. ⚠️ **Make sure to index a folder that contains most of the logic.**
+    
+    ![Index](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/index_codebase.gif)
+    
+2. **`Ask Codebase`** → ask a question that is related to your specific codebase, such as “How does this application work?"
+3. **`Ask Internet`** → ask a questions such as “how to send http request in react native?”
+
 ## How to use EasyCode
 
 ### **Understanding the Big Picture**
@@ -68,15 +77,6 @@ How is it different from other extensions?
     - “Write documentation for this function”
 
 **`EasyCode: Index Codebase` →** Allows for re-indexing of codebase, or indexing a different part of the codebase.
-
-## Getting Started
-
-1. **`Index codebase`** (optional) → Upon installation, you will see the option to “Index codebase”, this is an important step that helps AI provide answers that are **relevant** to your specific situation. This is required to use **Ask Codebase** features. ⚠️ **Make sure to index a folder that contains most of the logic.**
-    
-    ![Index](https://github.com/chuangli94/easycode_assets/blob/96b4d55716b882e278403e4f9ac96b3a56f907b7/index_codebase.gif)
-    
-2. **`Ask Codebase`** → ask a question that is related to your specific codebase, such as “How does this application work?
-3. **`Ask Internet`** → ask a questions such as “how to send http request in react native?”
 
 ## FAQs
 
