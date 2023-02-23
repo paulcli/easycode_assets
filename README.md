@@ -82,9 +82,10 @@ How is it different from other extensions?
 
 - What languages are supported?
     
-    Typescript, Javascript, Python for now.
+    `Ask Internet` and the Context Menu features work for most common languages. 
     
-    Support for Java, C# coming soon.
+    `Ask Codebase` works for Typescript, Javascript, Python, Java, C# for now. Support for more coming soon. 
+    * VS Code Language Exension pack needs to be installed for [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) and [Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack). 
     
 - Is EasyCode free to use?
     
