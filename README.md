@@ -1,14 +1,15 @@
 <h2 align="center"><img src="https://github.com/chuangli94/easycode_assets/blob/main/easycode_blue_letter.png?raw=true" height="64"><br>EasyCode</h2>
-<p align="center">GPT bot that understands your codebase</p>
+<p align="center">Experience benefits of ChatGPT Pro in your IDE</p>
 
 ### EasyCode helps you find relevant code, understand existing code, and write new code.
 
-How is it different from other extensions? 
+Why is it **Pro**? 
 
-- Generations are **relevant to your codebase**.
-- **Follow up questions**, feels just like chatGPT.
-- **Free,** no browser session key or OpenAI key required.
+- **100% Free,** no session key or OpenAI key required.
 - **Up to 5x faster** in generating responses.
+- Generations are **relevant to your codebase**.
+- **Follow up questions**, feels just like ChatGPT.
+
 
 ### Code Suggestion
 
@@ -97,7 +98,7 @@ How is it different from other extensions?
     
 - What happens to my data?
     
-    We never store your code. We use OpenAI to process the data. See OpenAI’s [Privacy Policy](https://openai.com/privacy/). 
+    We never store your code. We use OpenAI to process the data. Your data is **not being used** for training other AI models. See OpenAI’s [Privacy Policy](https://openai.com/privacy/). 
     
 
 ## Contact
