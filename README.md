@@ -1,15 +1,15 @@
-<h2 align="center"><img src="https://github.com/chuangli94/easycode_assets/blob/main/easycode_blue_letter.png?raw=true" height="64"><br>EasyCode</h2>
+<h2 align="center"><img src="https://github.com/chuangli94/easycode_assets/blob/main/easycode_blue_letter.png?raw=true" height="64"><br>EasyCode, backed by<br>
+<img src="https://logos-download.com/wp-content/uploads/2016/11/Y_Combinator_logo_text_wordmark.png" width="15%"></h2>
 <p align="center">Experience benefits of ChatGPT Pro in your IDE</p>
-
-### EasyCode helps you find relevant code, understand existing code, and write new code.
-
-Why is it **Pro**? 
 
 - **100% Free,** no session key or OpenAI key required.
 - **Up to 5x faster** in generating responses.
 - Generations are **relevant to your codebase**.
 - **Follow up questions**, feels just like ChatGPT.
+- **Security**, data not stored, or used for training.
 
+### ChatGPT + ability to answer questions specific to your project.
+<img src="https://github.com/chuangli94/easycode_assets/blob/main/demo_final.gif?raw=true" width="100%">
 
 ### Code Suggestion
 
