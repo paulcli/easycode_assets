@@ -1,5 +1,4 @@
-<h2 align="center"><img src="https://github.com/chuangli94/easycode_assets/blob/main/easycode_blue_letter.png?raw=true" height="64"><br>EasyCode, backed by<br>
-<img src="https://github.com/chuangli94/easycode_assets/blob/main/yc_logo.png?raw=true" width="15%"></h2>
+<h2 align="center"><img src="https://github.com/chuangli94/easycode_assets/blob/main/easycode_blue_letter.png?raw=true" height="64"><br>ChatGPT Pro<br></h2>
 <p align="center">Experience benefits of ChatGPT Pro in your IDE</p>
 
 - **100% Free,** no session key or OpenAI key required.
