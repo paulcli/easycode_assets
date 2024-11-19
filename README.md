@@ -76,6 +76,8 @@
     - “Write a test case that tests _____”
     - “Write documentation for this function”
 
+- **`EasyCode: Explain Stack Trace` →** Analyze stack trace errors to figure out the cause
+
 **`EasyCode: Index Codebase` →** Allows for re-indexing of codebase, or indexing a different part of the codebase.
 
 ## FAQs
